@@ -1,0 +1,23 @@
+Product
+name:  123
+price: 1000
+detail:123
+stock: 100
+
+Product
+name:  华为Pura7
+price: 7499
+detail:最新款华为手机
+stock: 70
+
+Product
+name:  banana
+price: 5
+detail:fruit
+stock: 70
+
+Product
+name:  iPhone19
+price: 7999
+detail:最新款苹果手机
+stock: 80

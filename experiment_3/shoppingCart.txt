@@ -1,0 +1,31 @@
+Cart
+User: 123456789
+Product
+华为Pura7
+number:10
+iPhone19
+number:10
+end
+
+Cart
+User: 2203051
+Product
+华为Pura7
+number:20
+end
+
+Cart
+User: 123555
+Product
+end
+
+Cart
+User: 1333
+Product
+end
+
+Cart
+User: 000000
+Product
+end
+

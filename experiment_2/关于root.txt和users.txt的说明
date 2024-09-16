@@ -1,0 +1,12 @@
+存储管理员和用户的账号和密码，严格按照
+
+account
+【账号】
+password
+【密码】
+
+account
+...
+...
+
+的格式，方便读写，其中account/password为关键字，因此用户注册时不能取"account"为账号，不能取"password"为密码

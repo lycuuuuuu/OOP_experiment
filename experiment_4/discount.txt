@@ -1,0 +1,29 @@
+Discount
+User: 123456789
+full to sub: 1000-200
+sub: 400
+full to sub: 1000-200
+sub: 500
+sub: 100
+full to sub: 4000-800
+sub: 200
+sub: 400
+end
+
+Discount
+User: 123555
+discount: 90%
+sub: 200
+end
+
+Discount
+User: 2203051
+sub: 500
+sub: 400
+end
+
+Discount
+User: 000000
+full to sub: 1000-200
+discount: 50%
+end
